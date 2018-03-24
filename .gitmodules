@@ -3,7 +3,7 @@
 	url = ../dpdk
 [submodule "fmt"]
 	path = fmt
-	url = ../fmt
+	url = https://github.com/scylladb/seastar/fmt
 [submodule "c-ares"]
 	path = c-ares
-	url = ../c-ares
+	url = https://github.com/scylladb/seastar/c-ares
