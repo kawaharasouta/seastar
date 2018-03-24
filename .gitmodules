@@ -1,6 +1,4 @@
 [submodule "fmt"]
-	path = fmt
 	url = https://github.com/scylladb/seastar/fmt
 [submodule "c-ares"]
-	path = c-ares
 	url = https://github.com/scylladb/seastar/c-ares
